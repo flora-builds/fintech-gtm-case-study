@@ -1,6 +1,12 @@
 # fintech-gtm-case-study
 An anonymized product marketing case study: audience prioritization, positioning, launch preparation, content delivery, and stakeholder coordination.
 
+### Methodology & AI Disclosure
+
+This case study is based on my own professional experience, strategic decisions, and work deliverables. I personally developed the underlying marketing strategy, analyses, positioning, and go-to-market approach.
+
+AI tools were used solely to support the structuring, organization, and editorial refinement of this document. All substantive content, professional insights, and strategic decisions reflect my own work and experience.
+
 # From Product Development to Marketing Launch Readiness
 
 ### Building the marketing foundations for a new consumer fintech proposition
