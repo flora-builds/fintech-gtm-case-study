@@ -10,16 +10,15 @@ Customer insight · Audience prioritization · Competitive positioning · Messag
 
 **The story in 30 seconds**  
 An established digital-investment business was developing a new consumer-facing proposition, but its marketing foundations were not yet in place. I authored the marketing and go-to-market strategy, secured leadership approval, and translated it into audience priorities, positioning, website copy, and a substantial content program. When commercialization was suspended pending regulatory authorization, I adapted the plan and organized the handover.  
->  
-> The engagement delivered a completed website, **60 written blog articles, including 40 published**, and finalized launch materials. Commercial acquisition and conversion performance remained untested.
+ 
+The engagement delivered a completed website, **60 written blog articles, including 40 published**, and finalized launch materials. Commercial acquisition and conversion performance remained untested.
+
 
 | Role | Situation | Scope | Outcome |
 |---|---|---|---|
-| **Marketing Lead — strategy & GTM** | New consumer proposition; product under development | Positioning, segmentation, brand coordination, website copy, content, launch planning, agency evaluation | Strategy approved; website completed and briefly published; marketing assets prepared; commercial activation paused |
+| **Marketing Lead & Strategy & GTM** | New consumer proposition / product under development | Positioning, segmentation, brand coordination, website copy, content, launch planning, agency evaluation | Strategy approved; website completed and briefly published / marketing assets prepared / commercial activation paused |
 
 **Reading guide:** The executive summary and decision highlights take approximately two minutes. The sections below explain the supporting reasoning, delivery model, evidence, and limitations. All examples are anonymized; illustrative frameworks are not reproduced internal documents.
-
----
 
 ## Executive summary
 
@@ -42,8 +41,6 @@ I was brought in to establish the consumer marketing foundation. I authored the 
 ### What was delivered
 
 The website was **developed, approved, and briefly published**. I wrote **60 blog articles, 40 of which were published** before the website was withdrawn. I also wrote all copy for **approximately ten presentation pages**. I wrote three white papers per audience profile. The white papers were finalized, designed, and approved. Brand and positioning decisions, email and newsletter content, webinar preparation, an acquisition partner selection, and a coordinated launch plan were completed or prepared to the stages described below.
-
----
 
 ## 1. The starting point: a developing product without a complete market narrative
 
@@ -121,13 +118,13 @@ The working framework included **six consumer profiles** and **two professional-
 | Property-focused investor | “How should I think about a new asset category?” | Introductory explanations and balanced risk discussion |
 | Established wealth holder | “Can I understand and trust this experience?” | Higher-touch educational materials and clear description of the service |
 
-*These are simplified, reconstructed audience archetypes—not copies of confidential persona sheets or claims about everyone within a demographic category.*
+*These are simplified, reconstructed audience archetypes, not copies of confidential persona sheets or claims about everyone within a demographic category.*
 
 ### Why I prioritized two segments
 
 I recommended giving more initial attention to **digitally fluent younger investors** and **entrepreneurs**, while continuing to address other profiles with different content and resource intensity.
 
-- **Digitally fluent investors:** the priority hypothesis was faster understanding and decision-making, thanks to familiarity with digital assets and mobile experiences—not a larger expected initial investment.
+- **Digitally fluent investors:** the priority hypothesis was faster understanding and decision-making, thanks to familiarity with digital assets and mobile experiences, not a larger expected initial investment.
 - **Entrepreneurs:** the hypothesis combined potential commercial relevance with an interest in broader financial diversification and a relatively accessible conversation about the proposition.
 - **More cautious audiences:** they remained relevant, but were expected to require more education and reassurance before expressing interest.
 
@@ -161,13 +158,13 @@ This was an opportunity identified through my research and strategic judgment, *
 
 ### The proposed positioning architecture
 
-**Pillar 1 — Longer-term wealth context.** Move away from speculative language toward how investors may consider this asset category alongside other financial decisions.
+**Pillar 1: Longer-term wealth context.** Move away from speculative language toward how investors may consider this asset category alongside other financial decisions.
 
-**Pillar 2 — Education and clarity.** Explain concepts, processes, responsibilities, and risks without assuming prior expertise.
+**Pillar 2: Education and clarity.** Explain concepts, processes, responsibilities, and risks without assuming prior expertise.
 
-**Pillar 3 — Human support.** Describe potential expert interaction alongside the digital interface, without promising a service capability that was not available.
+**Pillar 3: Human support.** Describe potential expert interaction alongside the digital interface, without promising a service capability that was not available.
 
-**Pillar 4 — Personal relevance.** Adapt language and educational depth to differences in familiarity, objectives, and concerns.
+**Pillar 4: Personal relevance.** Adapt language and educational depth to differences in familiarity, objectives, and concerns.
 
 The recommendation was approved by leadership and translated into the new website's messaging. I also explored possible future themes around succession, ownership structures, and broader financial integration. Those themes were **ideas for longer-term differentiation**, not features I claim were built or launched.
 
@@ -218,7 +215,7 @@ The site was technically completed, approved, and briefly live. It was then take
 
 The goal was to build a connected education-led route from discovery to qualified interest, rather than run unrelated content and media initiatives.
 
-### Intended journey — designed, not fully activated
+### Intended journey: designed, not fully activated
 
 | Stage | Customer question | Prepared or proposed component | Intended progression |
 |---|---|---|---|
@@ -230,7 +227,7 @@ The goal was to build a connected education-led route from discovery to qualifie
 
 **Implementation boundary:** I designed the journeys and qualification principles and prepared copy; CRM configuration and automation deployment were owned elsewhere.
 
-### Proposed qualification logic—not a validated scoring model
+### Proposed qualification logic (not a validated scoring model)
 
 The planning considered signals such as requesting resources, attending a webinar, interacting with communications, expressing early interest, or requesting contact. The idea was to distinguish casual interest from a stronger intent to speak with someone.
 
@@ -358,17 +355,6 @@ The roadmap distinguished completed deliverables from the activities that would 
 | **Measurement integrity** | Planned targets kept separate from verified delivery and impact |
 
 While the underlying category was digital-asset investing, the methods apply more broadly to **fintech, wealthtech, legaltech, and complex B2B/B2C software**: translating technical propositions into clear customer value, aligning stakeholders, and preparing a measurable route to market.
-
----
-
-## Companion analytical exhibits — to be added
-
-Four original, anonymized visuals will support the narrative. They will be **reconstructions of the reasoning**, not confidential source files, historical dashboards, or evidence of a deployed automation.
-
-1. **Audience segmentation & priority matrix** — motivations, adoption friction, commercial hypotheses, and why initial effort was concentrated on selected audiences.
-2. **Competitive positioning map** — competing category narratives, the trade-off between mass awareness and differentiated relevance, and the proposed territory.
-3. **Customer journey and qualification design** — customer questions → message → content → engagement signal → proposed next step, with clear deployment boundaries.
-4. **GTM roadmap and status map** — completed work, prepared-but-not-activated activities, and changes after the regulatory-dependent pause.
 
 ---
 
