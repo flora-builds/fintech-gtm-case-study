@@ -1,0 +1,93 @@
+# Customer Segmentation & Prioritization
+
+**An anonymized product marketing case study | Consumer fintech | Pre-launch**
+
+> **The decision:** Address six consumer audiences, but concentrate initial acquisition planning on **entrepreneurs** and **digitally fluent younger investors**. Maintain differentiated content for the other audiences rather than spreading limited marketing resources equally.
+>
+> **My role:** I developed the segmentation, refined it with commercial-team feedback, recommended the initial priorities, and used the framework to guide messaging and content. The recommendations were approved internally; their relative acquisition performance was not tested.
+
+## 1. Decision and context
+
+An established financial-services business was developing a new consumer-facing digital investment proposition. Product work was underway, but audience definitions and consumer messaging were not yet finalized. I needed to answer three practical questions:
+
+- **Who had distinct needs and objections?** “Crypto investors” were not a single homogeneous audience.
+- **Where should a small marketing function focus first?** Serving several segments did not justify equal acquisition effort across them.
+- **What would segmentation actually change?** The model needed to influence website explanations, editorial topics, and prepared communications—not remain a theoretical persona exercise.
+
+I began with desk research and refined the working profiles through discussions with business development and commercial colleagues, **drawing on commercial-team feedback and previous industry experience**. The profiles were reviewed and approved internally. No completed program of direct customer interviews or comparative acquisition testing validated them externally.
+
+## 2. Segmentation and priority matrix
+
+### The decision in 30 seconds
+
+| Audience | Initial rationale | Expected education requirement | Initial priority | Main uncertainty |
+|---|---|---|---|---|
+| **Digitally fluent younger investors** | Existing familiarity with digital assets and comfort with digital experiences; potentially faster decisions | Less introductory category education anticipated | **Primary** | Would familiarity translate into qualified interest? |
+| **Entrepreneurs** | Potential commercial relevance and interest in broader financial diversification | Focused explanation of the service, control, and responsibilities | **Primary** | Would the proposition become a meaningful investment priority? |
+| **Other consumer profiles** | Relevant needs, but varied financial contexts, knowledge, and concerns | More tailored education and reassurance anticipated | **Supporting coverage** | What level of effort and messaging would each require? |
+
+*Qualitative reconstruction of the original prioritization rationale. These assumptions were not validated through live acquisition tests. No historical numerical scores or segment-level CAC have been inferred.*
+
+### Full audience coverage
+
+| Consumer profile | Need or motivation | Main objection or friction | Communication direction |
+|---|---|---|---|
+| **Digitally fluent younger investor** | Accessible, transparent digital investment experience | Opaque propositions; unclear product differences | Direct explanations and clear product mechanics |
+| **Entrepreneur** | Explore financial diversification alongside business priorities | Limited time; operational complexity | Service structure, responsibilities, visibility and control |
+| Time-constrained professional | Understand an investment approach without daily monitoring | Risk, time and distrust | Plain-language explanations of process and risk |
+| Independent professional | Assess relevance to longer-term financial objectives | Oversight and regulatory questions | Structured education and access to informed dialogue |
+| Property-oriented investor | Consider another asset category | Limited familiarity and possible misconceptions about diversification | Category education and balanced risk explanations |
+| Established wealth holder | Assess an unfamiliar service within broader financial priorities | Trust, continuity and technical complexity | Guided explanations and relationship-led formats |
+
+Two additional **professional-intermediary profiles**—a forward-looking wealth adviser and a more cautious wealth adviser—were maintained separately. They served a proposed bridge to the firm's existing professional ecosystem, **not** the direct-consumer acquisition priority. No active referral program is implied.
+
+**Why these two primary groups?** For younger digitally fluent investors, I expected category familiarity to reduce introductory education and potentially accelerate decisions. For entrepreneurs, I saw potential commercial relevance and a clear need to explain investment responsibilities and service structure. Neither rationale assumed that younger investors had the highest investment amount. All six consumer groups remained in the communications plan; the difference was intended intensity of early acquisition effort.
+
+## 3. How commercial feedback changed the model
+
+I also revised an initial assumption: an older wealth-holder audience was not among my first choices, but commercial feedback justified adding it and tailoring the proposed channels and message depth.
+
+**Decision principle:** address several audiences, but do not allocate scarce attention equally to all of them. These were prioritization hypotheses, not proven relative CAC or conversion findings.
+
+The change also reminded me that a digital-first narrative was not necessarily the right entry point for every potential investor. For some audiences, a more considered explanation of responsibilities, risks and human support was needed. This refinement came from collaboration with commercial colleagues, not from a formal consumer-interview study.
+
+## 4. How segmentation changed the work
+
+The most useful output was not the personas themselves. It was the way the matrix informed materials I wrote and workstreams I coordinated.
+
+| Insight | Decision applied | Work product | Delivery status |
+|---|---|---|---|
+| Different audiences began with different levels of knowledge | Adjust explanations and tone without fragmenting the core positioning | Website copy and presentation pages | **Written, approved and delivered** |
+| Investor motivations and objections varied | Organize content around audience questions | Blog themes, categories and articles | **Produced; a substantial portion published** |
+| Trust needed substantive explanation, not slogans | Develop persona-informed educational material | White papers | **Written, designed and approved** |
+| Evaluation questions differed by profile | Prepare distinct follow-up framing | Newsletters and email-sequence copy | **Prepared, not sent** |
+| Engagement could help indicate readiness for dialogue | Propose behavior-informed qualification and follow-up | Nurturing and lead-scoring concept | **Proposed; CRM logic not implemented by me** |
+| Certain segments called for more guided education | Prepare topic-specific live learning and discussion | Webinar concepts and materials | **Prepared; events not held** |
+
+This distinction matters: the segmentation influenced **delivered copy and content**, while personalized automation and behavioral scoring remained **planned activation mechanisms**. A person's reading choices would be an interest signal, not proof of their persona identity.
+
+### Detailed audience examples (illustrative reconstruction)
+
+**Entrepreneur.** A business owner interested in exploring an unfamiliar investment category but reluctant to add daily complexity. The planned messaging emphasized what the service would do, what decisions remained with the customer, and how risks and responsibilities would be explained. Content topics focused on service structure and informed decision-making, rather than promises of returns.
+
+**Digitally fluent younger investor.** A user already familiar with digital assets who needed a compelling reason to consider another experience. The messaging emphasized transparent product mechanics, understandable processes and an accessible digital journey. Category familiarity was treated as a possible advantage for initial engagement, **not** as evidence of low risk tolerance or high conversion.
+
+The examples show how one positioning could be expressed differently without inventing separate brands or unsupported customer outcomes.
+
+## 5. Evidence boundaries and next validation
+
+| What the engagement established | What remained to be tested |
+|---|---|
+| Segmentation framework developed and approved internally | External validity of the audience hypotheses |
+| Two primary acquisition audiences identified | Actual relative CPL, CAC and conversion rates |
+| Commercial feedback used to revise a profile | Whether revised messages improved response |
+| Segmentation applied to website and educational content | Whether proposed personalization improved engagement |
+| Email and qualification journeys prepared conceptually | Technical deployment and predictive accuracy of scoring |
+
+**Next validation sequence, if commercialization were permitted:** conduct focused customer interviews; test comprehension of compliant positioning variants; run small, measurable acquisition experiments by segment; establish shared definitions of qualified interest with sales; then adjust resource allocation based on actual behavior rather than assumed customer value.
+
+### Methodology and confidentiality
+
+This document is an anonymized, qualitative reconstruction of my original work. Audience names and examples are adapted; confidential financial estimates, internal partner details and original operational files are not reproduced. The portfolio presentation was structured and edited with AI assistance. The account of the engagement, responsibilities and delivery statuses was provided and reviewed by me.
+
+[← Back to the main case study](README.md)
