@@ -8,8 +8,8 @@ An anonymized product marketing case study: audience prioritization, positioning
 **An anonymized Product Marketing case study**  
 Customer insight · Audience prioritization · Competitive positioning · Messaging · Digital experience · Launch preparation · Cross-functional delivery
 
-> **The story in 30 seconds**  
-> An established digital-investment business was developing a new consumer-facing proposition, but its marketing foundations were not yet in place. I authored the marketing and go-to-market strategy, secured leadership approval, and translated it into audience priorities, positioning, website copy, and a substantial content program. When commercialization was suspended pending regulatory authorization, I adapted the plan and organized the handover.  
+**The story in 30 seconds**  
+An established digital-investment business was developing a new consumer-facing proposition, but its marketing foundations were not yet in place. I authored the marketing and go-to-market strategy, secured leadership approval, and translated it into audience priorities, positioning, website copy, and a substantial content program. When commercialization was suspended pending regulatory authorization, I adapted the plan and organized the handover.  
 >  
 > The engagement delivered a completed website, **60 written blog articles, including 40 published**, and finalized launch materials. Commercial acquisition and conversion performance remained untested.
 
