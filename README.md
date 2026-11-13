@@ -142,6 +142,12 @@ Decision principle: address several audiences, but do not allocate scarce attent
 
 The audience matrix informed website explanations, blog categories, white paper topics, email copy, and proposed nurturing journeys. I wrote three white papers per audience profile, adapting the topics and framing to the needs identified in the segmentation.
 
+## Supporting Analysis & Frameworks
+
+Explore the analytical frameworks developed from this case study:
+
+1. [Customer Segmentation & Prioritization](./01-customer-segmentation.md) — Audience selection, prioritization rationale, and translation into marketing decisions.
+
 ---
 
 ## 4. Competitive analysis and the positioning decision
