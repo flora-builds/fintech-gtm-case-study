@@ -1,6 +1,8 @@
 # fintech-gtm-case-study
 An anonymized product marketing case study: audience prioritization, positioning, launch preparation, content delivery, and stakeholder coordination.
 
+![Fintech Product Marketing — Positioning, Audience Strategy and Launch Readiness](fintech-gtm-overview.png)
+
 ### Methodology & AI Disclosure
 
 This case study is based on my own professional experience, strategic decisions, and work deliverables. I personally developed the underlying marketing strategy, analyses, positioning, and go-to-market approach.
