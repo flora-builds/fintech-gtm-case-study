@@ -11,6 +11,8 @@ AI tools were used solely to support the structuring, organization, and editoria
 
 # From Product Development to Marketing Launch Readiness
 
+Estimated reading time: 12 min
+
 ### Building the marketing foundations for a new consumer fintech proposition
 
 **An anonymized Product Marketing case study**  
